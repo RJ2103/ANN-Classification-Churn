@@ -1,0 +1,7 @@
+churn_venv/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+logs/
+.vscode/
